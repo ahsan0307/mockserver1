@@ -1,7 +1,7 @@
  {
        "results": [
      { 
-        "rollNumber": 101,
+        "id": 101,
         "class" : "9th",
         "name" : "Ahmad",
         "marks": "950/960",
@@ -10,7 +10,7 @@
         },
      { 
        
-        "rollNumber": 102,
+        "id": 102,
         "class" : "9th",
         "name" : "Ali",
         "marks": "945/960",
@@ -18,7 +18,7 @@
         "Remarks": "Extraordinary student! Good in studies and sprots"
        },
       {
-        "rollNumber": 103,
+        "id": 103,
         "class" : "9th",
         "name" : "Amjad",
         "marks": "940/960",
@@ -26,7 +26,7 @@
         "Remarks": "Extraordinary student! Good in studies and sprots"
        },
        {
-       "rollNumber": 104,
+       "id": 104,
         "class" : "9th",
         "name" : "Adeel",
         "marks": "939/960",
