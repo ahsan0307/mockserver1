@@ -6,7 +6,7 @@
         "name" : "Ahmad",
         "marks": "950/960",
         "position": "1st",
-        "Remarks": "Extraordinary student! Good in studies and sprots"
+        "Remarks": "Extraordinary student! Good in studies and sports"
         },
      { 
        
@@ -15,7 +15,7 @@
         "name" : "Ali",
         "marks": "945/960",
         "position": "2nd",
-        "Remarks": "Extraordinary student! Good in studies and sprots"
+        "Remarks": "Extraordinary student! Good in studies and sports"
        },
       {
         "id": 789,
@@ -23,7 +23,7 @@
         "name" : "Amjad",
         "marks": "940/960",
         "position": "3rd",
-        "Remarks": "Extraordinary student! Good in studies and sprots"
+        "Remarks": "Extraordinary student! Good in studies and sports"
        },
        {
        "id": 101112,
@@ -31,7 +31,7 @@
         "name" : "Adeel",
         "marks": "939/960",
         "position": "4th",
-        "Remarks": "Extraordinary student! Good in studies and sprots"
+        "Remarks": "Extraordinary student! Good in studies and sports"
        }
       ]
     }
